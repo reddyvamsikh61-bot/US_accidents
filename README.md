@@ -19,19 +19,6 @@ notebooks.
 3.  Model Training
 4.  Evaluation
 
-## Installation
-
-``` bash
-git clone <your-repo-url>
-cd <project-folder>
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run notebooks in order: 1 → 4
 
 ## Author
 
